@@ -8,7 +8,6 @@ Hi, I'm Eduardo Braga, a Computer Science student at UNICAP
 <p align="center">
 <a href="https://instagram.com/duducbraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duducbraga" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/390225029784141834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Soneca#9403" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dudubraga2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dudubraga2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages:</h3>
