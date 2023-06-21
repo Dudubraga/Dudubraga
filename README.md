@@ -17,5 +17,4 @@ Hi, I'm Eduardo Braga, a Computer Science student at UNICAP
 <img align="center" alt="HenriqueFrancaa_Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <p>
 
-<p><img height="140em" src="https://github-readme-stats.vercel.app/api?username=dudubraga&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/><p>
-<p><img height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubraga&layout=compact&langs_count=16&theme=transparent"/><p>
+<p><img height="140em" src="https://github-readme-stats.vercel.app/api?username=dudubraga&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubraga&layout=compact&langs_count=16&theme=transparent"/><p>
