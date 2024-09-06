@@ -1,7 +1,7 @@
 <div align="center">  
 
 ## About Me
-Hi, I'm Eduardo Braga, a Computer Science student at UNICAP
+Hi, I'm Eduardo Braga, a Computer Science student at UNICAP, and currently, an ICPC competitor
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
