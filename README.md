@@ -1,14 +1,7 @@
 <!-- Name | Bio -->
 <div align="center">
-    <h1> Hey, I'm Eduardo Braga 👋 </h1>
-        <div style="display: flex; align-items: flex-start; gap: 30px;"> 
-        <div style="max-width: 60%;"> 
-            <p>Currently pursuing a degree in Computer Science at UNICAP, and a competitor in the International Collegiate Programming Contest. I'm passionate about creating efficient and innovative solutions through code.</p> 
-        </div>
-        <div style="max-width: 20px; height: auto"> 
-            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb6a00b4-9cdc-401d-9a61-41fdbe9d09ce/dfljj5u-d146f11f-1abb-4c9e-a43a-6b8987016e28.png/v1/fit/w_828,h_474/master_oogway__render__by_yessing_dfljj5u-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvZmI2YTAwYjQtOWNkYy00MDFkLTlhNjEtNDFmZGJlOWQwOWNlXC9kZmxqajV1LWQxNDZmMTFmLTFhYmItNGM5ZS1hNDNhLTZiODk4NzAxNmUyOC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.bV-r1w_qyNdHh0oFrUA141DSMBDglMT8XAJ2zDgacUk"/> 
-        </div>
-        </div>
+    <h1> Hey, I'm Eduardo Braga 👋 </h1> 
+    <p>Currently pursuing a degree in Computer Science at UNICAP, and a competitor in the International Collegiate Programming Contest. I'm passionate about creating efficient and innovative solutions through code.</p> 
 </div>
 <!-- Contact Info -->
 <div align="center">
