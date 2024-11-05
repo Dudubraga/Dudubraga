@@ -9,13 +9,13 @@
     <h2> 📫 Contact </h2>
     <div style="display: flex; justify-content: center; gap: 20px">
         <a href="https://instagram.com/duducbraga" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duducbraga" height="30" width="40" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duducbraga" width="40" />
         </a>
         <a href="https://www.linkedin.com/in/eduardo-costa-braga-7a837625b/" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo costa braga" height="28" width="30" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo costa braga" width="30" />
         </a>
         <a href="https://discordapp.com/users/390225029784141834" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Soneca#9403" height="35" width="40" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Soneca#9403"  width="40" />
         </a>
     </div>
 </div>
