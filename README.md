@@ -7,8 +7,8 @@
 <p align="left">
 Currently pursuing a degree in Computer Science at UNICAP, and a competitor in the International Collegiate Programming Contest.<br>
 I'm passionate about creating efficient and innovative solutions through code.
-</p>
-<br><br>
+</p><br><br>
+
 <!-- Contact Info -->    
 ## 📫 Contact
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="35"/>](https://instagram.com/duducbraga)
