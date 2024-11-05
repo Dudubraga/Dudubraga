@@ -1,9 +1,9 @@
 <!-- Name | Bio -->
 <div align="center">
 
-<img src="image.png" min-width="200px" max-width="250px" width="200px" align="right" alt="Oogway">
-
 # Hey, I'm Eduardo Braga 👋
+
+<img src="image.png" min-width="200px" max-width="250px" width="200px" align="right" alt="Oogway">
 <p>
 Currently pursuing a degree in Computer Science at UNICAP, and a competitor in the International Collegiate Programming Contest. I'm passionate about creating efficient and innovative solutions through code.
 </p><br><br>
