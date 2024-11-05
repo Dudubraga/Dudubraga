@@ -3,10 +3,11 @@
 
 # Hey, I'm Eduardo Braga 👋
 
-<img src="image.png" min-width="200px" max-width="250px" width="200px" align="right" alt="Oogway">
-<p>
-Currently pursuing a degree in Computer Science at UNICAP, and a competitor in the International Collegiate Programming Contest. I'm passionate about creating efficient and innovative solutions through code.
-</p><br><br>
+<img src="image.png" min-width="200px" max-width="250px" width="200px" align="right" alt="Oogway"/>
+
+* Pursuing a degree in Computer Science at UNICAP, and a
+* Competitor in the International Collegiate Programming Contest.
+* Passionate about creating efficient and innovative solutions through code.
 
 <!-- Contact Info -->    
 ## 📫 Contact
