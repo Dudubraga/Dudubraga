@@ -7,7 +7,7 @@
 <!-- Contact Info -->
 <div align="center">
     <h2> 📫 Contact </h2>
-    <div style="display: flex; justify-content: center; gap: 20px">
+    <div style="display: flex; justify-content: center; gap: 20px; margin-left: 20px">
         <a href="https://instagram.com/duducbraga" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duducbraga" width="40" />
         </a>
