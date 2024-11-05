@@ -3,7 +3,7 @@
 
 # Hey, I'm Eduardo Braga 👋
 
-<img src="image.png" min-width="200px" max-width="250px" width="200px" align="right" alt="Oogway" right="50px"/>
+<img src="image.png" min-width="200px" max-width="250px" width="200px" align="right" alt="Oogway" margin-right="50px"/>
 <h3>
 Currently a Computer Science student in my fourth semester at UNICAP. I have a passion for continuously learning and navigating the fascinating world of technology. As a member of the Competitive Programming Group at UNICAP, I delve into algorithms that help solve diverse problems, which is a source of endless intrigue for me.
 </h3><br>
