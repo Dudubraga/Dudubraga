@@ -4,15 +4,9 @@
 # Hey, I'm Eduardo Braga 👋
 
 <img src="image.png" min-width="250px" max-width="300px" width="250px" align="right" alt="Oogway"/>
-<p>
+<h3>
 Currently a Computer Science student at UNICAP. I have a passion for continuously learning and navigating the fascinating world of technology. As a member of the Competitive Programming Group at UNICAP, I delve into algorithms that help solve diverse problems, which is a source of endless intrigue for me.
-</p><br>
-
-<!-- Contact Info -->    
-## 📫 Contact
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="35"/>](https://instagram.com/duducbraga)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="35"/>](https://www.linkedin.com/in/eduardo-costa-braga-7a837625b/) 
-[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" alt="discord" width="35" />](https://discordapp.com/users/390225029784141834)
+</h3><br>
 
 <!-- Languages | Skills -->
 ## 💻 Skills 
@@ -25,12 +19,9 @@ Currently a Computer Science student at UNICAP. I have a passion for continuousl
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubraga&layout=compact&langs_count=16&theme=transparent" alt="top-langs" width="300"/>
 
-<!-- Tools | Softwares -->
-## 🛠️ Tools
-<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git"  width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="vim" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" width="40" height="40"/>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="canva" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="jira" width="40" height="40"/>
-</div>
+<!-- Contact Info -->    
+## 📫 Contact
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="25"/>](https://www.linkedin.com/in/eduardo-costa-braga-7a837625b/) 
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="25"/>](https://instagram.com/duducbraga)
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="25" />](https://discordapp.com/users/390225029784141834)
+
