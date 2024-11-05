@@ -8,6 +8,7 @@
 * Pursuing a degree in Computer Science at UNICAP.
 * Competitor in the International Collegiate Programming Contest.
 * Passionate about creating efficient and innovative solutions through code.
+<br><br>
 
 <!-- Contact Info -->    
 ## 📫 Contact
