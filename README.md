@@ -1,7 +1,8 @@
 <!-- Name | Bio -->
 <div align="center">
     <h1> Hey, I'm Eduardo Braga 👋 </h1> 
-    <p>Currently pursuing a degree in Computer Science at UNICAP, and a competitor in the International Collegiate Programming Contest. I'm passionate about creating efficient and innovative solutions through code.</p> 
+    <p>Currently pursuing a degree in Computer Science at UNICAP, and a competitor in the International Collegiate Programming Contest. 
+        <br>I'm passionate about creating efficient and innovative solutions through code.</p> 
 </div>
 <!-- Contact Info -->
 <div align="center">
