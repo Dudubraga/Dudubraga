@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hey, I'm Eduardo Braga 👋
-<img src="image.png" min-width="300px" max-width="350px" width="300px" align="right" alt="Oogway">
+<img src="image.png" min-width="200px" max-width="250px" width="200px" align="right" alt="Oogway">
 
 <p>
 Currently pursuing a degree in Computer Science at UNICAP, and a competitor in the International Collegiate Programming Contest.<br>
