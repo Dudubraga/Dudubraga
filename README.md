@@ -5,7 +5,7 @@
 
 <img src="image.png" min-width="200px" max-width="250px" width="200px" align="right" alt="Oogway"/>
 
-* Pursuing a degree in Computer Science at UNICAP, and a
+* Pursuing a degree in Computer Science at UNICAP.
 * Competitor in the International Collegiate Programming Contest.
 * Passionate about creating efficient and innovative solutions through code.
 
