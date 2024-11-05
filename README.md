@@ -31,7 +31,7 @@
         <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mySQL" width="40"/>
     </div>
     <div style="margin-top: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubraga&layout=compact&langs_count=16&theme=transparent" alt="top-langs" width="300"/>
+        <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubraga&layout=compact&langs_count=16&theme=transparent" alt="top-langs" width="250"/>
     </div>
 </div>
 <!-- Tools | Softwares -->
