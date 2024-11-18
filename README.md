@@ -1,7 +1,7 @@
 <!-- Name | Bio -->
 <div align="left">
 
-# Hey, I'm Eduardo Braga 👋
+## Hey, I'm Eduardo Braga 👋
 
 <img src="image.png" min-width="250px" max-width="300px" width="250px" align="right" alt="Oogway"/>
 <h3>
