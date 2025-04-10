@@ -25,4 +25,4 @@ Currently a Computer Science student at UNICAP. I have a passion for continuousl
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="25"/>](https://www.linkedin.com/in/eduardo-costa-braga-7a837625b/) 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="25"/>](https://instagram.com/duducbraga)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="25" />](https://discordapp.com/users/390225029784141834)
-
+[<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portifolio" height="25" />](https://portifolio-pwm-pi.vercel.app/)
