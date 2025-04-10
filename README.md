@@ -18,7 +18,7 @@ Currently a Computer Science student at UNICAP. I have a passion for continuousl
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="css" width="40"/>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubraga&layout=compact&langs_count=20&theme=transparent" alt="top-langs" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubraga&layout=compact&langs_count=16&theme=transparent" alt="top-langs" width="300"/>
 
 <!-- Contact Info -->    
 ## 📫 Contact
