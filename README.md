@@ -10,12 +10,8 @@ Currently a Computer Science student at UNICAP. I have a passion for continuousl
 
 <!-- Languages | Skills -->
 ## 💻 Skills 
-<p align="center"><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,mysql,html,css,js,ts" width="400"/>
-</a></p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubraga&layout=compact&langs_count=16&theme=transparent" alt="top-langs" width="300"/>
-</p>
+[<img src="https://skillicons.dev/icons?i=py,c,cpp,java,mysql,html,css,js,ts" width="300"/>](https://skillicons.dev)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubraga&layout=compact&langs_count=16&theme=transparent" alt="top-langs" width="300"/>
 
 <!-- Contact Info -->    
 ## 📫 Contact
